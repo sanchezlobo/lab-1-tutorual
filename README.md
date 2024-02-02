@@ -1,1 +1,1 @@
-# lab-1-tutorual
+# lab-1-tutorial
